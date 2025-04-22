@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&color=6DB33F" />
   <img src="https://img.shields.io/badge/Java-17-red?style=flat&logo=openjdk" />
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/In-Memory-DuckDB%20-9cf?style=flat&logo=data:image/svg+xml;base64," />
+  <img src="https://img.shields.io/badge/InMemory-DuckDB%20-9cf?style=flat&logo=data:image/svg+xml;base64," />
   <img src="https://img.shields.io/badge/Productivity-Boosted%20by%20AI-green" />
   <img src="https://img.shields.io/badge/Learning-System%20Design-orange" />
 </p>
