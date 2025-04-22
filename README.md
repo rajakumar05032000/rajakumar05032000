@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Kumar</h1>
-<h3 align="center">I'm a backend engineer who loves solving real-world problems through clean code, efficient systems, and thoughtful design. I specialize in building high-performance REST APIs, integrating smart automation, and optimizing data-intensive workflows.</h3>
+<h3 align="center">I'm a full stack engineer who loves solving real-world problems through clean code, efficient systems, and thoughtful design. I specialize in building high-performance REST APIs, integrating smart automation, and optimizing data-intensive workflows.</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&color=6DB33F" />
